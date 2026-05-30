@@ -1,11 +1,6 @@
 # 💫 About Me:
 🛠 I’m currently building AI-powered automation systems using n8n, OpenAI, and API integrations .. creating smart workflows that help businesses scale faster with less effort.<br><br>🤝 I’m open to collaborating on automation projects, AI agents, and transforming manual operations into fully automated, revenue-focused systems.<br><br>🆘 I’m looking for support with large-scale automation architecture, advanced API integrations, and optimizing multi-agent systems for real business use cases.<br><br>🌱 I’m currently deepening my learning in RAG, AI agents, and designing scalable end-to-end workflows that deliver measurable business value.<br><br>💬 Ask me about n8n workflows, API connections, AI automation for business operations, content automation, or building systems that run smoothly without manual work.<br><br>⚡ Fun fact: I love turning complex processes into simple automated steps and I genuinely enjoy explaining AI and automation in a way anyone can understand.
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/761306913741909) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamedsamii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamedsamii) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hamed_sami) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Hamed_Samii) 
-
-
 ## 🚀 Automation Tech Stack
 
 ### 🔧 Automation Platforms  
