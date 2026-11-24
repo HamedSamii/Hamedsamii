@@ -50,3 +50,33 @@ Business automation, lead systems, document assistants, chat and voice agents fo
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+### ☁️ Cloud
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+## 📂 Selected case studies
+
+| Case study | What it solves |
+|---|---|
+| [arabic-edu-rag-platform](https://github.com/HamedSamii/arabic-edu-rag-platform) | Arabic study assistant that answers from the curriculum |
+| [lead-discovery-outreach-system](https://github.com/HamedSamii/lead-discovery-outreach-system) | Finding leads and following up automatically |
+| [banking-voice-agent-demo](https://github.com/HamedSamii/banking-voice-agent-demo) | Voice agent for banking customers |
+| [fashion-store-multi-agent-assistant](https://github.com/HamedSamii/fashion-store-multi-agent-assistant) | Several agents running a store chat together |
+| [specialist-clinic-ai-receptionist](https://github.com/HamedSamii/specialist-clinic-ai-receptionist) | Clinic receptionist that books and answers |
+| [training-academy-sales-agent](https://github.com/HamedSamii/training-academy-sales-agent) | Sales agent for course enquiries |
+
+## ✅ How it ships
+
+Every build is tested on real conversations before launch, and the list of what it still can't answer goes to the client.
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Hamedsamii&bg_color=F7F1E3&title_color=B8892B&text_color=3B3224&icon_color=B8892B&border_color=E6D9B8&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamedsamii&bg_color=F7F1E3&title_color=B8892B&text_color=3B3224&icon_color=B8892B&border_color=E6D9B8&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:B8892B,100:F7F1E3&height=100&section=footer)
+
+</div>
