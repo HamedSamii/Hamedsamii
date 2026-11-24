@@ -74,7 +74,7 @@ Every build is tested on real conversations before launch, and the list of what 
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Hamedsamii&bg_color=F7F1E3&title_color=B8892B&text_color=3B3224&icon_color=B8892B&border_color=E6D9B8&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Hamedsamii&bg_color=F7F1E3&title_color=B8892B&text_color=3B3224&icon_color=B8892B&border_color=E6D9B8&hide_border=false&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamedsamii&bg_color=F7F1E3&title_color=B8892B&text_color=3B3224&icon_color=B8892B&border_color=E6D9B8&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:B8892B,100:F7F1E3&height=100&section=footer)
