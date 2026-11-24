@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hamed%20Sami&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20automation%20%C2%B7%20Lead%20systems%20%C2%B7%20Chat%20%26%20voice%20agents&descAlignY=62&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hamed%20Sami&fontSize=52&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=780&lines=Answers+that+come+from+your+data%2C+not+from+a+guess;Automation+that+runs+without+manual+work;Chat+and+voice+agents+tested+on+real+conversations)](https://hamedsamii.com)
 
@@ -54,32 +54,3 @@ Business automation, lead systems, document assistants, chat and voice agents fo
 ### ☁️ Cloud
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-## 📂 Selected case studies
-
-| Case study | What it solves |
-|---|---|
-| [arabic-edu-rag-platform](https://github.com/HamedSamii/arabic-edu-rag-platform) | Arabic study assistant that answers from the curriculum |
-| [lead-discovery-outreach-system](https://github.com/HamedSamii/lead-discovery-outreach-system) | Finding leads and following up automatically |
-| [banking-voice-agent-demo](https://github.com/HamedSamii/banking-voice-agent-demo) | Voice agent for banking customers |
-| [fashion-store-multi-agent-assistant](https://github.com/HamedSamii/fashion-store-multi-agent-assistant) | Several agents running a store chat together |
-| [specialist-clinic-ai-receptionist](https://github.com/HamedSamii/specialist-clinic-ai-receptionist) | Clinic receptionist that books and answers |
-| [training-academy-sales-agent](https://github.com/HamedSamii/training-academy-sales-agent) | Sales agent for course enquiries |
-
-## ✅ How it ships
-
-Every build is tested on real conversations before launch, and the list of what it still can't answer goes to the client.
-
-## 📊 GitHub stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Hamedsamii&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hamedsamii&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamedsamii&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://github-profile-trophy.vercel.app/?username=Hamedsamii&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer)
-
-</div>
